@@ -1,3 +1,4 @@
+// src/components/App.js
 import React, { useState } from "react";
 import AdminNavBar from "./AdminNavBar";
 import QuestionForm from "./QuestionForm";

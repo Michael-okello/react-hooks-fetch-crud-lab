@@ -1,3 +1,4 @@
+// src/components/AdminNavBar.js
 import React from "react";
 
 function AdminNavBar({ onChangePage }) {
@@ -10,3 +11,4 @@ function AdminNavBar({ onChangePage }) {
 }
 
 export default AdminNavBar;
+
